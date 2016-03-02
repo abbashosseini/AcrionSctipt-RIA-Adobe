@@ -1,7 +1,7 @@
 # AcrionSctipt-RIA-Adobe
 
-#### you can see project in [Here](https://github.com/abbashosseini/AcrionSctipt-RIA-Adobe/blob/master/developer_Mihan.html)
+#### you can see project just clone the project and click on `developer_mihan.html`
 
-##### 4 , 5 years ago i made it. 
+##### 4 , 5 years ago i made it 
 
 Action Script 3 && Flash Cs4
